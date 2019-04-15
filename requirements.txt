@@ -1,0 +1,10 @@
+tensorflow-gpu==1.12.0
+tensorflow-probability==0.6.0
+tensorflow-probability-gpu==0.4.0
+tensorflow-estimator==1.10.12
+dm-sonnet==1.23
+torch
+torch-vision
+numpy
+matplotlib
+Pillow
